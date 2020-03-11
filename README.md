@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='
 
-https://raw.githubusercontent.com/Sluckson/LuckApp/00707dd29a15c5e42591729541aba710f8728210/Luckson_TodoAPP.mp4' title='APP_TODO Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/gallery/D7iXJNp#
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
