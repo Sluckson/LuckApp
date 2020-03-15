@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://i.imgur.com/KtvoL86.mp4
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/D7iXJNp"><a href="//imgur.com/a/D7iXJNp">ToDoApp</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
